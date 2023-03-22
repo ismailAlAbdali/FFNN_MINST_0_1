@@ -5,8 +5,8 @@ FFNN: Building Simple Feet Forward Neural Network From scartch for 0_1 MINST Dat
 2-	Install the following libraries.\
 a.	Pandas\
 b.	NumPy\
-You can Install them by typing in your terminal.\ 
--	pip install <name of library above>\
+You can Install them by typing in your terminal.\
+-	pip install "name of library above"
 3-	run the project using the command:\
 -	python3 main.py
 
