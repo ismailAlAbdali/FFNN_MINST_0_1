@@ -13,10 +13,10 @@ You can Install them by typing in your terminal.
 # Project files and breif decribtion of what they hold:
 
 1-	Main.py:
- This file contains the main function of our project. First, it divides the trainset and testset into x and y and then fits the training set into our Neural Network model and finds the test set accuracy. 
+ This file contains the main function of our project. First, it divides the trainset and testset into x and y and then fits the training set into our Neural Network model and finds the test set accuracy. \
 
-2-	Neural_network_model.py: this file contains the feet forward neural network definition, and it contains the following functions: 
-a.	Sigmoid(x) : sigmoid function
+2-	Neural_network_model.py: this file contains the feet forward neural network definition, and it contains the following functions:\
+a.	Sigmoid(x) : sigmoid function\
 b.	Sigmoid_der(x) : derivative of sigmoid 
 c.	Error(u,g_in): gets the error compared to y_true value
 d.	initialize_neural_network(hidden_layer_shape, hidden_to_out_connection_shape,output_layer_shape,bias) : this function initialize our neural network based on the given shape and it also initializes the bias term.
